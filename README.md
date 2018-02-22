@@ -1,4 +1,3 @@
 # hitch
 
-TODO: Enter the cookbook description here.
-
+Library cookbook that installs and configures hitch scalable TLS proxy
