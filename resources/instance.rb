@@ -10,5 +10,4 @@ property :sni_nomatch_abort, [true, false], default: false
 
 action :install do
   package 'hitch'
-
 end
