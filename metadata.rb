@@ -6,6 +6,6 @@ description 'Installs/Configures hitch'
 long_description 'Installs/Configures hitch'
 version '0.1.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
-supports 'ubuntu-16.04'
+supports 'ubuntu'
 issues_url 'https://github.com/goblin23/hitch/issues'
 source_url 'https://github.com/goblin23/hitch'
